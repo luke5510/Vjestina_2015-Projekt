@@ -1,0 +1,8 @@
+Osnovne informacije o projektu za Vještinu C#
+
+
+Kao svoj projekt odluèio sam napraviti web aplikaciju "Easy business management" koja æe uèinkovito riješiti jedan od današnjih velikih problema, povezivanje poslodavaca i potencijalnih zaposlenika. Aplikacija æe omoguæavati prijavljivanje i stvaranje profila poslodavaca u kojem mogu ureðivati razlièite informacije, poput naziva tvrtke, mjesta rada, opisa rada, intervala otvorenih prijava za radno mjesto i sl., a potencijalni zaposlenici mogu uploadati svoje CV-ove, priznanja, diplome itd. Pomoæu relevantnih informacija koje æe se moæi unijeti, aplikacija æe meðu mnogima prijavljenih za odreðeni posao, naæi najprihvatljvije kandidate, koji se onda mogu testirati slanjem odreðenih pitanja ili zadataka, ili æe im biti uruèen poziv za intervju upravo preko aplikacije.
+
+Kljuèni faktori pomoæu kojih æe se uopæe moæi selektirati potencijalni zaposlenici mogu biti ankete formirane tako da su odgovori numerièkog tipa (npr. "Na skali od 1 do 10, koliko ste vješti u programiranju?" ili "Koliko godina radite u dotiènoj struci?") , a aplikacija je zadužena da na naèin koji je zadao korisnik težinski integrira sve numerièke rezultate u jedinstveni koeficijent koji æe napraviti inicijalnu selekciju kandidata, dakle svi oni koji su ispod neke donje granice koeficijenta, oni više ne mogu u daljnje krugove natjecanja za neko radno mjesto.
+
+Sve æe se, dakako, modelirati preko grafièkog korisnièkog suèelja (GUI), a sve se može daljnje proširivati kako projekt bude napredovao.
